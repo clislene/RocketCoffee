@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-    <img src="./img/frame.png" width="50%">
+    <img src="./img/frame.png" width="30%">
 </div>
 
 ## Sobre o projeto 
